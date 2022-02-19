@@ -1,14 +1,14 @@
-UofT Full Stack Web Development
-Weekly Challenge 01
+**UofT Full Stack Web Development**
+**Weekly Challenge 01**
  - Tasked to refactor existing code to meet accessibility standards so that it is optimized for search engines.
 
-Details: <br />
+**Details:** <br />
 User Story: <br />
 AS A marketing agency <br />
 I WANT a codebase that follows accessibility standards <br />
 SO THAT our own site is optimized for search engines <br />
 
-Acceptance Criteria: <br />
+**Acceptance Criteria:** <br />
 GIVEN a webpage meets accessibility standards <br />
 WHEN I view the source code <br />
 THEN I find semantic HTML elements <br />
@@ -22,4 +22,3 @@ WHEN I view the title element <br />
 THEN I find a concise, descriptive title <br />
 
 ![Website Screenshot](./assets/images/screencapture-file-C-Users-Taimur-Hasan-projects-urban-octo-telegram-index-html-2022-02-19-17_50_07.png)
-Format: ![Alt Text](url)
