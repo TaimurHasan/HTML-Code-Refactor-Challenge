@@ -1,0 +1,1 @@
+Weekly Challenge 01 - tasked to refactor existing code to meet accessibility standards to be optimized for search engines.
