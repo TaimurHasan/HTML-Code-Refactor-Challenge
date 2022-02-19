@@ -1,6 +1,7 @@
-**UofT Full Stack Web Development**
+**UofT Full Stack Web Development** <br />
 **Weekly Challenge 01**
  - Tasked to refactor existing code to meet accessibility standards so that it is optimized for search engines.
+ - For this challenge, I took the initial code provided and added Semantic HTML elements, consolidated the CSS style sheet, and considered other important factors in the acceptance criteria listed below.
 
 **Details:** <br />
 User Story: <br />
@@ -21,4 +22,7 @@ THEN they fall in sequential order <br />
 WHEN I view the title element <br />
 THEN I find a concise, descriptive title <br />
 
+<br />
+
+**Screenshot of Final Website**
 ![Website Screenshot](./assets/images/screencapture-file-C-Users-Taimur-Hasan-projects-urban-octo-telegram-index-html-2022-02-19-17_50_07.png)
