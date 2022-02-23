@@ -4,6 +4,10 @@
  - Tasked to refactor existing code to meet accessibility standards so that it is optimized for search engines.
  - For this challenge, I took the initial code provided and added Semantic HTML elements, consolidated the CSS style sheet, and considered other important factors in the acceptance criteria listed below.
 
+**Languages Used**
+- HTML
+- CSS
+
 ## Details:
 **User Story:** <br />
 AS A marketing agency <br />
